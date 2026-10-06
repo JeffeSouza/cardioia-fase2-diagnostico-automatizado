@@ -1,0 +1,518 @@
+@prefix cardio: <http://cardioia.example.org/ontologia#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+cardio:acordo_com_falta_de_ar a cardio:Sintoma ;
+    rdfs:label "acordo com falta de ar"@pt ;
+    cardio:indicaDoenca cardio:insuficiencia_cardiaca .
+
+cardio:alivia_quando_descanso a cardio:Sintoma ;
+    rdfs:label "alivia quando descanso"@pt ;
+    cardio:indicaDoenca cardio:angina_estavel .
+
+cardio:aperto_forte_no_peito a cardio:Sintoma ;
+    rdfs:label "aperto forte no peito"@pt ;
+    cardio:indicaDoenca cardio:infarto_agudo_do_miocardio .
+
+cardio:aperto_no_peito a cardio:Sintoma ;
+    rdfs:label "aperto no peito"@pt ;
+    cardio:indicaDoenca cardio:infarto_agudo_do_miocardio .
+
+cardio:aperto_no_peito_ao_caminhar a cardio:Sintoma ;
+    rdfs:label "aperto no peito ao caminhar"@pt ;
+    cardio:indicaDoenca cardio:angina_estavel .
+
+cardio:aperto_no_torax a cardio:Sintoma ;
+    rdfs:label "aperto no tórax"@pt ;
+    cardio:indicaDoenca cardio:infarto_agudo_do_miocardio .
+
+cardio:apos_virose a cardio:Sintoma ;
+    rdfs:label "após virose"@pt ;
+    cardio:indicaDoenca cardio:miocardite,
+        cardio:pericardite .
+
+cardio:barriga_inchada a cardio:Sintoma ;
+    rdfs:label "barriga inchada"@pt ;
+    cardio:indicaDoenca cardio:insuficiencia_cardiaca .
+
+cardio:batedeira a cardio:Sintoma ;
+    rdfs:label "batedeira"@pt ;
+    cardio:indicaDoenca cardio:arritmia_cardiaca .
+
+cardio:batendo_irregular a cardio:Sintoma ;
+    rdfs:label "batendo irregular"@pt ;
+    cardio:indicaDoenca cardio:arritmia_cardiaca .
+
+cardio:batimento_irregular a cardio:Sintoma ;
+    rdfs:label "batimento irregular"@pt ;
+    cardio:indicaDoenca cardio:arritmia_cardiaca .
+
+cardio:calafrios a cardio:Sintoma ;
+    rdfs:label "calafrios"@pt ;
+    cardio:indicaDoenca cardio:endocardite_infecciosa .
+
+cardio:cansaco a cardio:Sintoma ;
+    rdfs:label "cansaço"@pt ;
+    cardio:indicaDoenca cardio:insuficiencia_cardiaca,
+        cardio:miocardite .
+
+cardio:cansaco_constante a cardio:Sintoma ;
+    rdfs:label "cansaço constante"@pt ;
+    cardio:indicaDoenca cardio:insuficiencia_cardiaca .
+
+cardio:coracao_acelerado a cardio:Sintoma ;
+    rdfs:label "coração acelerado"@pt ;
+    cardio:indicaDoenca cardio:arritmia_cardiaca .
+
+cardio:coracao_dispara a cardio:Sintoma ;
+    rdfs:label "coração dispara"@pt ;
+    cardio:indicaDoenca cardio:arritmia_cardiaca .
+
+cardio:coracao_disparado a cardio:Sintoma ;
+    rdfs:label "coração disparado"@pt ;
+    cardio:indicaDoenca cardio:arritmia_cardiaca .
+
+cardio:coracao_falhando a cardio:Sintoma ;
+    rdfs:label "coração falhando"@pt ;
+    cardio:indicaDoenca cardio:arritmia_cardiaca .
+
+cardio:depois_de_uma_gripe a cardio:Sintoma ;
+    rdfs:label "depois de uma gripe"@pt ;
+    cardio:indicaDoenca cardio:miocardite,
+        cardio:pericardite .
+
+cardio:desconforto_no_peito a cardio:Sintoma ;
+    rdfs:label "desconforto no peito"@pt ;
+    cardio:indicaDoenca cardio:angina_estavel .
+
+cardio:desmaiei a cardio:Sintoma ;
+    rdfs:label "desmaiei"@pt ;
+    cardio:indicaDoenca cardio:estenose_aortica .
+
+cardio:desmaiei_enquanto_corria a cardio:Sintoma ;
+    rdfs:label "desmaiei enquanto corria"@pt ;
+    cardio:indicaDoenca cardio:estenose_aortica .
+
+cardio:desmaio a cardio:Sintoma ;
+    rdfs:label "desmaio"@pt ;
+    cardio:indicaDoenca cardio:estenose_aortica .
+
+cardio:desmaio_ao_levantar a cardio:Sintoma ;
+    rdfs:label "desmaio ao levantar"@pt ;
+    cardio:indicaDoenca cardio:hipotensao_ortostatica .
+
+cardio:desmaio_durante_exercicio a cardio:Sintoma ;
+    rdfs:label "desmaio durante exercício"@pt ;
+    cardio:indicaDoenca cardio:estenose_aortica .
+
+cardio:dificuldade_para_respirar a cardio:Sintoma ;
+    rdfs:label "dificuldade para respirar"@pt ;
+    cardio:indicaDoenca cardio:angina_estavel,
+        cardio:embolia_pulmonar,
+        cardio:insuficiencia_cardiaca .
+
+cardio:dor_ao_caminhar a cardio:Sintoma ;
+    rdfs:label "dor ao caminhar"@pt ;
+    cardio:indicaDoenca cardio:trombose_venosa_profunda .
+
+cardio:dor_ao_respirar a cardio:Sintoma ;
+    rdfs:label "dor ao respirar"@pt ;
+    cardio:indicaDoenca cardio:embolia_pulmonar .
+
+cardio:dor_ao_respirar_fundo a cardio:Sintoma ;
+    rdfs:label "dor ao respirar fundo"@pt ;
+    cardio:indicaDoenca cardio:pericardite .
+
+cardio:dor_ao_subir_escada a cardio:Sintoma ;
+    rdfs:label "dor ao subir escada"@pt ;
+    cardio:indicaDoenca cardio:angina_estavel .
+
+cardio:dor_de_cabeca a cardio:Sintoma ;
+    rdfs:label "dor de cabeça"@pt ;
+    cardio:indicaDoenca cardio:crise_hipertensiva .
+
+cardio:dor_de_cabeca_forte a cardio:Sintoma ;
+    rdfs:label "dor de cabeça forte"@pt ;
+    cardio:indicaDoenca cardio:crise_hipertensiva .
+
+cardio:dor_na_mandibula a cardio:Sintoma ;
+    rdfs:label "dor na mandíbula"@pt ;
+    cardio:indicaDoenca cardio:infarto_agudo_do_miocardio .
+
+cardio:dor_na_nuca a cardio:Sintoma ;
+    rdfs:label "dor na nuca"@pt ;
+    cardio:indicaDoenca cardio:crise_hipertensiva .
+
+cardio:dor_na_panturrilha a cardio:Sintoma ;
+    rdfs:label "dor na panturrilha"@pt ;
+    cardio:indicaDoenca cardio:trombose_venosa_profunda .
+
+cardio:dor_na_panturrilha_ao_andar a cardio:Sintoma ;
+    rdfs:label "dor na panturrilha ao andar"@pt ;
+    cardio:indicaDoenca cardio:doenca_arterial_periferica .
+
+cardio:dor_na_perna_ao_caminhar a cardio:Sintoma ;
+    rdfs:label "dor na perna ao caminhar"@pt ;
+    cardio:indicaDoenca cardio:doenca_arterial_periferica .
+
+cardio:dor_no_braco_esquerdo a cardio:Sintoma ;
+    rdfs:label "dor no braço esquerdo"@pt ;
+    cardio:indicaDoenca cardio:infarto_agudo_do_miocardio .
+
+cardio:dor_no_corpo a cardio:Sintoma ;
+    rdfs:label "dor no corpo"@pt ;
+    cardio:indicaDoenca cardio:miocardite .
+
+cardio:dor_no_peito a cardio:Sintoma ;
+    rdfs:label "dor no peito"@pt ;
+    cardio:indicaDoenca cardio:angina_estavel,
+        cardio:infarto_agudo_do_miocardio,
+        cardio:pericardite .
+
+cardio:dor_no_peito_ao_esforco a cardio:Sintoma ;
+    rdfs:label "dor no peito ao esforço"@pt ;
+    cardio:indicaDoenca cardio:angina_estavel,
+        cardio:estenose_aortica .
+
+cardio:dor_no_peito_ao_respirar a cardio:Sintoma ;
+    rdfs:label "dor no peito ao respirar"@pt ;
+    cardio:indicaDoenca cardio:embolia_pulmonar .
+
+cardio:dor_no_peito_deitado a cardio:Sintoma ;
+    rdfs:label "dor no peito deitado"@pt ;
+    cardio:indicaDoenca cardio:pericardite .
+
+cardio:dor_no_peito_em_repouso a cardio:Sintoma ;
+    rdfs:label "dor no peito em repouso"@pt ;
+    cardio:indicaDoenca cardio:infarto_agudo_do_miocardio .
+
+cardio:dor_que_nao_passa a cardio:Sintoma ;
+    rdfs:label "dor que não passa"@pt ;
+    cardio:indicaDoenca cardio:infarto_agudo_do_miocardio .
+
+cardio:dormir_com_travesseiros a cardio:Sintoma ;
+    rdfs:label "dormir com travesseiros"@pt ;
+    cardio:indicaDoenca cardio:insuficiencia_cardiaca .
+
+cardio:enjoo a cardio:Sintoma ;
+    rdfs:label "enjoo"@pt ;
+    cardio:indicaDoenca cardio:infarto_agudo_do_miocardio .
+
+cardio:escurecimento_da_vista a cardio:Sintoma ;
+    rdfs:label "escurecimento da vista"@pt ;
+    cardio:indicaDoenca cardio:hipotensao_ortostatica .
+
+cardio:espalha_para_o_braco_esquerdo a cardio:Sintoma ;
+    rdfs:label "espalha para o braço esquerdo"@pt ;
+    cardio:indicaDoenca cardio:infarto_agudo_do_miocardio .
+
+cardio:fadiga a cardio:Sintoma ;
+    rdfs:label "fadiga"@pt ;
+    cardio:indicaDoenca cardio:insuficiencia_cardiaca .
+
+cardio:falta_de_ar a cardio:Sintoma ;
+    rdfs:label "falta de ar"@pt ;
+    cardio:indicaDoenca cardio:angina_estavel,
+        cardio:embolia_pulmonar,
+        cardio:insuficiencia_cardiaca .
+
+cardio:falta_de_ar_a_noite a cardio:Sintoma ;
+    rdfs:label "falta de ar à noite"@pt ;
+    cardio:indicaDoenca cardio:insuficiencia_cardiaca .
+
+cardio:falta_de_ar_ao_esforco a cardio:Sintoma ;
+    rdfs:label "falta de ar ao esforço"@pt ;
+    cardio:indicaDoenca cardio:estenose_aortica .
+
+cardio:falta_de_ar_deitado a cardio:Sintoma ;
+    rdfs:label "falta de ar deitado"@pt ;
+    cardio:indicaDoenca cardio:insuficiencia_cardiaca .
+
+cardio:falta_de_ar_intensa a cardio:Sintoma ;
+    rdfs:label "falta de ar intensa"@pt ;
+    cardio:indicaDoenca cardio:embolia_pulmonar .
+
+cardio:falta_de_ar_quando_faco_exercicio a cardio:Sintoma ;
+    rdfs:label "falta de ar quando faço exercício"@pt ;
+    cardio:indicaDoenca cardio:estenose_aortica .
+
+cardio:falta_de_ar_subita a cardio:Sintoma ;
+    rdfs:label "falta de ar súbita"@pt ;
+    cardio:indicaDoenca cardio:embolia_pulmonar .
+
+cardio:febre a cardio:Sintoma ;
+    rdfs:label "febre"@pt ;
+    cardio:indicaDoenca cardio:endocardite_infecciosa,
+        cardio:miocardite .
+
+cardio:febre_baixa a cardio:Sintoma ;
+    rdfs:label "febre baixa"@pt ;
+    cardio:indicaDoenca cardio:pericardite .
+
+cardio:febre_persistente a cardio:Sintoma ;
+    rdfs:label "febre persistente"@pt ;
+    cardio:indicaDoenca cardio:endocardite_infecciosa .
+
+cardio:febre_que_vai_e_volta a cardio:Sintoma ;
+    rdfs:label "febre que vai e volta"@pt ;
+    cardio:indicaDoenca cardio:endocardite_infecciosa .
+
+cardio:ferida_que_nao_cicatriza a cardio:Sintoma ;
+    rdfs:label "ferida que não cicatriza"@pt ;
+    cardio:indicaDoenca cardio:doenca_arterial_periferica .
+
+cardio:fraqueza a cardio:Sintoma ;
+    rdfs:label "fraqueza"@pt ;
+    cardio:indicaDoenca cardio:insuficiencia_cardiaca .
+
+cardio:fraqueza_ao_ficar_em_pe a cardio:Sintoma ;
+    rdfs:label "fraqueza ao ficar em pé"@pt ;
+    cardio:indicaDoenca cardio:hipotensao_ortostatica .
+
+cardio:ganho_de_peso_rapido a cardio:Sintoma ;
+    rdfs:label "ganho de peso rápido"@pt ;
+    cardio:indicaDoenca cardio:insuficiencia_cardiaca .
+
+cardio:inchaco_em_uma_perna a cardio:Sintoma ;
+    rdfs:label "inchaço em uma perna"@pt ;
+    cardio:indicaDoenca cardio:trombose_venosa_profunda .
+
+cardio:inchaco_nas_pernas a cardio:Sintoma ;
+    rdfs:label "inchaço nas pernas"@pt ;
+    cardio:indicaDoenca cardio:insuficiencia_cardiaca .
+
+cardio:indicaDoenca a owl:ObjectProperty ;
+    rdfs:domain cardio:Sintoma ;
+    rdfs:range cardio:Doenca .
+
+cardio:mal_consigo_caminhar a cardio:Sintoma ;
+    rdfs:label "mal consigo caminhar"@pt ;
+    cardio:indicaDoenca cardio:trombose_venosa_profunda .
+
+cardio:manchas_na_pele a cardio:Sintoma ;
+    rdfs:label "manchas na pele"@pt ;
+    cardio:indicaDoenca cardio:endocardite_infecciosa .
+
+cardio:melhora_com_repouso a cardio:Sintoma ;
+    rdfs:label "melhora com repouso"@pt ;
+    cardio:indicaDoenca cardio:angina_estavel .
+
+cardio:melhora_inclinado_para_frente a cardio:Sintoma ;
+    rdfs:label "melhora inclinado para frente"@pt ;
+    cardio:indicaDoenca cardio:pericardite .
+
+cardio:melhora_quando_me_inclino a cardio:Sintoma ;
+    rdfs:label "melhora quando me inclino"@pt ;
+    cardio:indicaDoenca cardio:pericardite .
+
+cardio:nausea a cardio:Sintoma ;
+    rdfs:label "náusea"@pt ;
+    cardio:indicaDoenca cardio:infarto_agudo_do_miocardio .
+
+cardio:palpitacao a cardio:Sintoma ;
+    rdfs:label "palpitação"@pt ;
+    cardio:indicaDoenca cardio:arritmia_cardiaca,
+        cardio:miocardite .
+
+cardio:panturrilha_dolorida a cardio:Sintoma ;
+    rdfs:label "panturrilha dolorida"@pt ;
+    cardio:indicaDoenca cardio:trombose_venosa_profunda .
+
+cardio:panturrilha_inchada a cardio:Sintoma ;
+    rdfs:label "panturrilha inchada"@pt ;
+    cardio:indicaDoenca cardio:trombose_venosa_profunda .
+
+cardio:panturrilha_vermelha a cardio:Sintoma ;
+    rdfs:label "panturrilha vermelha"@pt ;
+    cardio:indicaDoenca cardio:trombose_venosa_profunda .
+
+cardio:perda_de_peso a cardio:Sintoma ;
+    rdfs:label "perda de peso"@pt ;
+    cardio:indicaDoenca cardio:endocardite_infecciosa .
+
+cardio:perna_inchada a cardio:Sintoma ;
+    rdfs:label "perna inchada"@pt ;
+    cardio:indicaDoenca cardio:trombose_venosa_profunda .
+
+cardio:perna_quente a cardio:Sintoma ;
+    rdfs:label "perna quente"@pt ;
+    cardio:indicaDoenca cardio:trombose_venosa_profunda .
+
+cardio:perna_vermelha a cardio:Sintoma ;
+    rdfs:label "perna vermelha"@pt ;
+    cardio:indicaDoenca cardio:trombose_venosa_profunda .
+
+cardio:pernas_inchadas a cardio:Sintoma ;
+    rdfs:label "pernas inchadas"@pt ;
+    cardio:indicaDoenca cardio:insuficiencia_cardiaca .
+
+cardio:pes_frios a cardio:Sintoma ;
+    rdfs:label "pés frios"@pt ;
+    cardio:indicaDoenca cardio:doenca_arterial_periferica .
+
+cardio:pes_inchados a cardio:Sintoma ;
+    rdfs:label "pés inchados"@pt ;
+    cardio:indicaDoenca cardio:insuficiencia_cardiaca .
+
+cardio:piora_quando_deito a cardio:Sintoma ;
+    rdfs:label "piora quando deito"@pt ;
+    cardio:indicaDoenca cardio:pericardite .
+
+cardio:piora_quando_faco_esforco a cardio:Sintoma ;
+    rdfs:label "piora quando faço esforço"@pt ;
+    cardio:indicaDoenca cardio:angina_estavel .
+
+cardio:piora_quando_respiro_fundo a cardio:Sintoma ;
+    rdfs:label "piora quando respiro fundo"@pt ;
+    cardio:indicaDoenca cardio:pericardite .
+
+cardio:pressao_alta a cardio:Sintoma ;
+    rdfs:label "pressão alta"@pt ;
+    cardio:indicaDoenca cardio:crise_hipertensiva .
+
+cardio:pressao_muito_alta a cardio:Sintoma ;
+    rdfs:label "pressão muito alta"@pt ;
+    cardio:indicaDoenca cardio:crise_hipertensiva .
+
+cardio:pressao_no_peito a cardio:Sintoma ;
+    rdfs:label "pressão no peito"@pt ;
+    cardio:indicaDoenca cardio:infarto_agudo_do_miocardio .
+
+cardio:pulso_irregular a cardio:Sintoma ;
+    rdfs:label "pulso irregular"@pt ;
+    cardio:indicaDoenca cardio:arritmia_cardiaca .
+
+cardio:puxar_o_ar a cardio:Sintoma ;
+    rdfs:label "puxar o ar"@pt ;
+    cardio:indicaDoenca cardio:embolia_pulmonar .
+
+cardio:respiracao_rapida a cardio:Sintoma ;
+    rdfs:label "respiração rápida"@pt ;
+    cardio:indicaDoenca cardio:embolia_pulmonar .
+
+cardio:sangramento_no_nariz a cardio:Sintoma ;
+    rdfs:label "sangramento no nariz"@pt ;
+    cardio:indicaDoenca cardio:crise_hipertensiva .
+
+cardio:sensacao_de_desmaio a cardio:Sintoma ;
+    rdfs:label "sensação de desmaio"@pt ;
+    cardio:indicaDoenca cardio:arritmia_cardiaca .
+
+cardio:sinto_fraco a cardio:Sintoma ;
+    rdfs:label "sinto fraco"@pt ;
+    cardio:indicaDoenca cardio:endocardite_infecciosa .
+
+cardio:sopro_cardiaco a cardio:Sintoma ;
+    rdfs:label "sopro cardíaco"@pt ;
+    cardio:indicaDoenca cardio:estenose_aortica .
+
+cardio:sopro_no_coracao a cardio:Sintoma ;
+    rdfs:label "sopro no coração"@pt ;
+    cardio:indicaDoenca cardio:endocardite_infecciosa,
+        cardio:estenose_aortica .
+
+cardio:sudorese a cardio:Sintoma ;
+    rdfs:label "sudorese"@pt ;
+    cardio:indicaDoenca cardio:infarto_agudo_do_miocardio .
+
+cardio:suor_a_noite a cardio:Sintoma ;
+    rdfs:label "suor à noite"@pt ;
+    cardio:indicaDoenca cardio:endocardite_infecciosa .
+
+cardio:suor_frio a cardio:Sintoma ;
+    rdfs:label "suor frio"@pt ;
+    cardio:indicaDoenca cardio:infarto_agudo_do_miocardio .
+
+cardio:taquicardia a cardio:Sintoma ;
+    rdfs:label "taquicardia"@pt ;
+    cardio:indicaDoenca cardio:arritmia_cardiaca .
+
+cardio:tontura a cardio:Sintoma ;
+    rdfs:label "tontura"@pt ;
+    cardio:indicaDoenca cardio:arritmia_cardiaca,
+        cardio:crise_hipertensiva,
+        cardio:estenose_aortica .
+
+cardio:tontura_ao_levantar a cardio:Sintoma ;
+    rdfs:label "tontura ao levantar"@pt ;
+    cardio:indicaDoenca cardio:hipotensao_ortostatica .
+
+cardio:tornozelos_inchados a cardio:Sintoma ;
+    rdfs:label "tornozelos inchados"@pt ;
+    cardio:indicaDoenca cardio:insuficiencia_cardiaca .
+
+cardio:tosse_com_sangue a cardio:Sintoma ;
+    rdfs:label "tosse com sangue"@pt ;
+    cardio:indicaDoenca cardio:embolia_pulmonar .
+
+cardio:tossi_com_sangue a cardio:Sintoma ;
+    rdfs:label "tossi com sangue"@pt ;
+    cardio:indicaDoenca cardio:embolia_pulmonar .
+
+cardio:tratamento_dentario a cardio:Sintoma ;
+    rdfs:label "tratamento dentário"@pt ;
+    cardio:indicaDoenca cardio:endocardite_infecciosa .
+
+cardio:viagem_de_aviao a cardio:Sintoma ;
+    rdfs:label "viagem de avião"@pt ;
+    cardio:indicaDoenca cardio:trombose_venosa_profunda .
+
+cardio:viagem_longa a cardio:Sintoma ;
+    rdfs:label "viagem longa"@pt ;
+    cardio:indicaDoenca cardio:trombose_venosa_profunda .
+
+cardio:visao_turva a cardio:Sintoma ;
+    rdfs:label "visão turva"@pt ;
+    cardio:indicaDoenca cardio:crise_hipertensiva .
+
+cardio:vista_embacada a cardio:Sintoma ;
+    rdfs:label "vista embaçada"@pt ;
+    cardio:indicaDoenca cardio:crise_hipertensiva .
+
+cardio:zumbido_no_ouvido a cardio:Sintoma ;
+    rdfs:label "zumbido no ouvido"@pt ;
+    cardio:indicaDoenca cardio:crise_hipertensiva .
+
+cardio:doenca_arterial_periferica a cardio:Doenca ;
+    rdfs:label "Doença Arterial Periférica"@pt .
+
+cardio:hipotensao_ortostatica a cardio:Doenca ;
+    rdfs:label "Hipotensão Ortostática"@pt .
+
+cardio:miocardite a cardio:Doenca ;
+    rdfs:label "Miocardite"@pt .
+
+cardio:angina_estavel a cardio:Doenca ;
+    rdfs:label "Angina Estável"@pt .
+
+cardio:crise_hipertensiva a cardio:Doenca ;
+    rdfs:label "Crise Hipertensiva"@pt .
+
+cardio:embolia_pulmonar a cardio:Doenca ;
+    rdfs:label "Embolia Pulmonar"@pt .
+
+cardio:endocardite_infecciosa a cardio:Doenca ;
+    rdfs:label "Endocardite Infecciosa"@pt .
+
+cardio:estenose_aortica a cardio:Doenca ;
+    rdfs:label "Estenose Aórtica"@pt .
+
+cardio:pericardite a cardio:Doenca ;
+    rdfs:label "Pericardite"@pt .
+
+cardio:arritmia_cardiaca a cardio:Doenca ;
+    rdfs:label "Arritmia Cardíaca"@pt .
+
+cardio:trombose_venosa_profunda a cardio:Doenca ;
+    rdfs:label "Trombose Venosa Profunda"@pt .
+
+cardio:Doenca a owl:Class .
+
+cardio:infarto_agudo_do_miocardio a cardio:Doenca ;
+    rdfs:label "Infarto Agudo do Miocárdio"@pt .
+
+cardio:insuficiencia_cardiaca a cardio:Doenca ;
+    rdfs:label "Insuficiência Cardíaca"@pt .
+
+cardio:Sintoma a owl:Class .
+

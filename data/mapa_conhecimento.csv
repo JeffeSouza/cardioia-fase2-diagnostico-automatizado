@@ -1,0 +1,65 @@
+Sintoma 1,Sintoma 2,Doença Associada
+dor no peito,aperto no peito,Infarto Agudo do Miocárdio
+aperto no tórax,pressão no peito,Infarto Agudo do Miocárdio
+dor no braço esquerdo,espalha para o braço esquerdo,Infarto Agudo do Miocárdio
+dor na mandíbula,dor que não passa,Infarto Agudo do Miocárdio
+suor frio,sudorese,Infarto Agudo do Miocárdio
+enjoo,náusea,Infarto Agudo do Miocárdio
+dor no peito em repouso,aperto forte no peito,Infarto Agudo do Miocárdio
+dor no peito,desconforto no peito,Angina Estável
+dor no peito ao esforço,piora quando faço esforço,Angina Estável
+dor ao subir escada,aperto no peito ao caminhar,Angina Estável
+alivia quando descanso,melhora com repouso,Angina Estável
+falta de ar,dificuldade para respirar,Angina Estável
+cansaço constante,fadiga,Insuficiência Cardíaca
+cansaço,fraqueza,Insuficiência Cardíaca
+pernas inchadas,inchaço nas pernas,Insuficiência Cardíaca
+tornozelos inchados,pés inchados,Insuficiência Cardíaca
+dormir com travesseiros,falta de ar deitado,Insuficiência Cardíaca
+acordo com falta de ar,falta de ar à noite,Insuficiência Cardíaca
+falta de ar,dificuldade para respirar,Insuficiência Cardíaca
+ganho de peso rápido,barriga inchada,Insuficiência Cardíaca
+coração dispara,coração disparado,Arritmia Cardíaca
+palpitação,batedeira,Arritmia Cardíaca
+batendo irregular,batimento irregular,Arritmia Cardíaca
+coração acelerado,taquicardia,Arritmia Cardíaca
+tontura,sensação de desmaio,Arritmia Cardíaca
+coração falhando,pulso irregular,Arritmia Cardíaca
+pressão alta,pressão muito alta,Crise Hipertensiva
+dor de cabeça forte,dor na nuca,Crise Hipertensiva
+vista embaçada,visão turva,Crise Hipertensiva
+zumbido no ouvido,sangramento no nariz,Crise Hipertensiva
+dor de cabeça,tontura,Crise Hipertensiva
+piora quando respiro fundo,dor ao respirar fundo,Pericardite
+piora quando deito,dor no peito deitado,Pericardite
+melhora quando me inclino,melhora inclinado para frente,Pericardite
+depois de uma gripe,após virose,Pericardite
+dor no peito,febre baixa,Pericardite
+panturrilha inchada,perna inchada,Trombose Venosa Profunda
+panturrilha vermelha,perna vermelha,Trombose Venosa Profunda
+panturrilha dolorida,dor na panturrilha,Trombose Venosa Profunda
+viagem de avião,viagem longa,Trombose Venosa Profunda
+perna quente,inchaço em uma perna,Trombose Venosa Profunda
+mal consigo caminhar,dor ao caminhar,Trombose Venosa Profunda
+desmaio,desmaiei,Estenose Aórtica
+desmaiei enquanto corria,desmaio durante exercício,Estenose Aórtica
+falta de ar quando faço exercício,falta de ar ao esforço,Estenose Aórtica
+tontura,dor no peito ao esforço,Estenose Aórtica
+sopro no coração,sopro cardíaco,Estenose Aórtica
+febre que vai e volta,febre persistente,Endocardite Infecciosa
+calafrios,suor à noite,Endocardite Infecciosa
+tratamento dentário,sopro no coração,Endocardite Infecciosa
+manchas na pele,perda de peso,Endocardite Infecciosa
+febre,sinto fraco,Endocardite Infecciosa
+falta de ar intensa,falta de ar súbita,Embolia Pulmonar
+dor no peito ao respirar,dor ao respirar,Embolia Pulmonar
+tossi com sangue,tosse com sangue,Embolia Pulmonar
+respiração rápida,puxar o ar,Embolia Pulmonar
+falta de ar,dificuldade para respirar,Embolia Pulmonar
+febre,dor no corpo,Miocardite
+palpitação,cansaço,Miocardite
+após virose,depois de uma gripe,Miocardite
+dor na perna ao caminhar,dor na panturrilha ao andar,Doença Arterial Periférica
+pés frios,ferida que não cicatriza,Doença Arterial Periférica
+tontura ao levantar,escurecimento da vista,Hipotensão Ortostática
+desmaio ao levantar,fraqueza ao ficar em pé,Hipotensão Ortostática

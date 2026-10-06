@@ -1,0 +1,201 @@
+frase,situacao,origem
+"Paciente homem idoso refere nenhum sintoma no momento, com pressão 149 por 92, cardiopatia na família, sedentarismo.",baixo risco,fase1
+meu nariz está entupido e espirro bastante,baixo risco,manual
+cansaço leve depois de uma semana de muitas provas,baixo risco,manual
+"Homem idoso procurou atendimento com falta de ar, cansaço, com pressão 145 por 88, histórico de doença cardíaca, cardiopatia na família, alteração ST-T no ECG.",alto risco,fase1
+minha boca entortou e o braço ficou fraco de repente,alto risco,manual
+tive uma tontura leve ao levantar rápido da cama,baixo risco,manual
+"Paciente mulher idosa refere dor no peito em pressão, falta de ar, com pressão 153 por 77, histórico de doença cardíaca, sedentarismo.",alto risco,fase1
+estou com dor no peito e meu marcapasso parece não estar funcionando,alto risco,manual
+"Paciente homem idoso refere nenhum sintoma no momento, com pressão 157 por 89, tabagismo, cardiopatia na família, sedentarismo.",baixo risco,fase1
+"Homem idoso relata nenhum sintoma no momento, com diabetes, sedentarismo, taquicardia no ECG.",baixo risco,fase1
+dor no peito que irradia para a mandíbula e para as costas,alto risco,manual
+tenho um leve inchaço nos pés depois de um dia muito quente,baixo risco,manual
+"Mulher jovem procurou atendimento com dor no peito em pressão, com alteração ST-T no ECG.",baixo risco,fase1
+Mulher jovem relata nenhum sintoma no momento.,baixo risco,fase1
+meu pai de 70 anos sente aperto no peito e está muito sudoreico,alto risco,manual
+"Homem de meia-idade relata nenhum sintoma no momento, com diabetes, histórico de doença cardíaca.",baixo risco,fase1
+"Homem de meia-idade relata aperto no peito, com tabagismo, sedentarismo, alteração ST-T no ECG.",baixo risco,fase1
+tive uma câimbra na panturrilha durante a noite,baixo risco,manual
+estou com um pouco de dor de cabeça depois de ficar no computador,baixo risco,manual
+tive um apagão enquanto dirigia e o coração estava acelerado,alto risco,manual
+"Homem idoso relata dor no peito em pressão, com pressão 144 por 86, diabetes, tabagismo, cardiopatia na família, sedentarismo.",alto risco,fase1
+estou com o olho irritado e lacrimejando,baixo risco,manual
+"Paciente mulher de meia-idade refere falta de ar, com pressão 147 por 69, diabetes, histórico de doença cardíaca, sedentarismo.",baixo risco,fase1
+senti uma dor esmagadora no peito ao carregar peso,alto risco,manual
+"não sinto dor no peito, apenas um pouco de cansaço",baixo risco,manual
+"Mulher de meia-idade relata aperto no peito, com sedentarismo.",baixo risco,fase1
+senti o peito apertar no jogo de futebol e caí no chão,alto risco,manual
+o oxímetro mostra saturação de 85 e estou cansado demais para levantar,alto risco,manual
+"Mulher de meia-idade procurou atendimento com nenhum sintoma no momento, com cardiopatia na família, taquicardia no ECG.",baixo risco,fase1
+às vezes sinto palpitação quando estou nervoso antes de provas,baixo risco,manual
+"Paciente mulher idosa refere dor no peito em pressão, com diabetes.",baixo risco,fase1
+"Mulher idosa relata dor no peito em pressão, com pressão 157 por 74, diabetes, sedentarismo.",baixo risco,fase1
+estou com dor nos músculos do peito depois de carregar a mudança,baixo risco,manual
+estou com aperto no peito e o lado esquerdo do rosto ficou dormente,alto risco,manual
+"Paciente homem idoso refere falta de ar, com pressão 149 por 75, diabetes, histórico de doença cardíaca, cardiopatia na família, sedentarismo.",alto risco,fase1
+tive infarto ano passado e hoje voltei a sentir aperto no peito,alto risco,manual
+"Homem idoso relata queimação no peito, cansaço, com pressão 165 por 87, tabagismo, alteração ST-T no ECG.",alto risco,fase1
+minha avó tem insuficiência cardíaca e hoje está muito sem ar,alto risco,manual
+"Paciente homem de meia-idade refere queimação no peito, com diabetes, cardiopatia na família, sedentarismo, suspeita de arritmia no ECG.",baixo risco,fase1
+"Mulher de meia-idade procurou atendimento com aperto no peito, falta de ar.",baixo risco,fase1
+estou com tosse com sangue e dor ao respirar desde a cirurgia,alto risco,manual
+"Homem idoso relata queimação no peito, palpitações, com diabetes, sedentarismo, alteração ST-T no ECG.",baixo risco,fase1
+desmaiei enquanto subia a escada e senti o peito apertar,alto risco,manual
+minha mãe de 70 anos faz exames de rotina e está sem sintomas,baixo risco,manual
+"Paciente mulher idosa refere dor no peito em pressão, com pressão 181 por 96, colesterol alto, tabagismo, cardiopatia na família.",alto risco,fase1
+senti uma dor rasgando no peito que foi para as costas,alto risco,manual
+tenho pressão alta e hoje senti uma dor de cabeça explosiva com vômito,alto risco,manual
+tenho a pele seca e coceira,baixo risco,manual
+minha pressão estava 12 por 8 na farmácia,baixo risco,manual
+dor na lombar depois de jardinagem,baixo risco,manual
+a dor no peito começou de repente e estou enjoado e suando,alto risco,manual
+sinto dor no peito em aperto desde o almoço e ela está piorando,alto risco,manual
+"fiquei com falta de ar leve depois de nadar bastante, mas passou",baixo risco,manual
+"Homem de meia-idade procurou atendimento com dor no peito em pressão, cansaço, com pressão 149 por 88, tabagismo.",baixo risco,fase1
+"Paciente homem jovem refere nenhum sintoma no momento, com tabagismo, cardiopatia na família, alteração ST-T no ECG.",baixo risco,fase1
+dor no peito muito forte há trinta minutos com suor frio,alto risco,manual
+"não tenho dor no peito nem falta de ar, só um resfriado",baixo risco,manual
+estou um pouco ansioso com o trabalho,baixo risco,manual
+"Mulher de meia-idade relata nenhum sintoma no momento, com diabetes, cardiopatia na família.",baixo risco,fase1
+dor muscular no ombro depois da academia,baixo risco,manual
+estou com dor de garganta há dois dias,baixo risco,manual
+sou cardiopata e hoje estou com falta de ar mesmo em repouso,alto risco,manual
+sinto dor no peito quando tusso por causa do resfriado,baixo risco,manual
+meu coração está disparado há horas e sinto tontura forte,alto risco,manual
+"Mulher de meia-idade relata aperto no peito, palpitações, com alteração ST-T no ECG.",baixo risco,fase1
+não sinto as pernas direito e o peito está apertado,alto risco,manual
+falta de ar súbita depois de uma viagem longa de ônibus,alto risco,manual
+estou com dificuldade para dormir por causa do barulho,baixo risco,manual
+sinto dor no peito e falta de ar,alto risco,manual
+minha pressão está 200 por 120 e estou com dor de cabeça muito forte,alto risco,manual
+"estou tonta, com batimentos muito lentos e quase desmaiei no banho",alto risco,manual
+"meu pai tem 65 anos, faz academia e não sente nada",baixo risco,manual
+"Paciente mulher de meia-idade refere queimação no peito, cansaço, com pressão 150 por 95, colesterol alto, cardiopatia na família, alteração ST-T no ECG.",alto risco,fase1
+minha frequência cardíaca está acima de 150 e não baixa,alto risco,manual
+"Homem idoso relata dor no peito em pressão, com pressão 158 por 82, diabetes, sedentarismo.",baixo risco,fase1
+sinto palpitações fortes com dor no peito e muita tontura,alto risco,manual
+sinto uma leve tontura quando fico muito tempo sem comer,baixo risco,manual
+"batimento acelerado, suor frio e dor no peito ao mesmo tempo",alto risco,manual
+"Mulher idosa procurou atendimento com dor no peito em pressão, com diabetes, cardiopatia na família.",baixo risco,fase1
+"Mulher idosa procurou atendimento com nenhum sintoma no momento, com pressão 160 por 81, tabagismo, taquicardia no ECG.",baixo risco,fase1
+meus pés ficam frios no inverno,baixo risco,manual
+sinto uma leve dor no braço depois da vacina,baixo risco,manual
+dor no joelho quando subo escadas,baixo risco,manual
+dor no peito e o braço esquerdo ficou dormente,alto risco,manual
+tenho dor nas pernas depois da corrida de domingo,baixo risco,manual
+"Homem de meia-idade relata aperto no peito, com tabagismo, histórico de doença cardíaca.",baixo risco,fase1
+estou com uma afta que incomoda para comer,baixo risco,manual
+sinto um leve enjoo quando ando de carro,baixo risco,manual
+"Mulher de meia-idade relata falta de ar, com pressão 151 por 71, tabagismo, histórico de doença cardíaca, sedentarismo, alteração ST-T no ECG.",alto risco,fase1
+"o peito dói muito, a pressão caiu e estou muito pálido",alto risco,manual
+sinto queimação no estômago depois de comer pimenta,baixo risco,manual
+"Paciente homem de meia-idade refere nenhum sintoma no momento, com pressão 152 por 87, tabagismo, cardiopatia na família.",baixo risco,fase1
+"Homem idoso procurou atendimento com dor no peito em pressão, palpitações, cansaço, com pressão 157 por 86, diabetes, sedentarismo.",alto risco,fase1
+"Homem de meia-idade procurou atendimento com dor no peito em pressão, palpitações, com suspeita de arritmia no ECG.",baixo risco,fase1
+"Mulher idosa procurou atendimento com falta de ar, com pressão 155 por 89, diabetes, sedentarismo, alteração ST-T no ECG.",alto risco,fase1
+tenho rinite e o nariz escorre,baixo risco,manual
+minha garganta arranha e tenho febre baixa,baixo risco,manual
+"estou com febre alta, calafrios e o médico já disse que tenho sopro no coração",alto risco,manual
+meu coração bate muito rápido e irregular e estou quase desmaiando,alto risco,manual
+"Mulher de meia-idade relata nenhum sintoma no momento, com pressão 140 por 82, histórico de doença cardíaca, cardiopatia na família, sedentarismo.",baixo risco,fase1
+"Mulher idosa procurou atendimento com palpitações, com pressão 167 por 85, cardiopatia na família.",alto risco,fase1
+"Homem de meia-idade procurou atendimento com dor no peito em pressão, cansaço, com tabagismo.",baixo risco,fase1
+"Mulher idosa procurou atendimento com nenhum sintoma no momento, com pressão 172 por 98, colesterol alto, diabetes, histórico de doença cardíaca, sedentarismo.",alto risco,fase1
+tive um leve incômodo nas costas,baixo risco,manual
+"vim apenas renovar a receita do remédio de pressão, estou bem",baixo risco,manual
+estou com tosse seca e coriza,baixo risco,manual
+"Mulher idosa relata aperto no peito, cansaço, com pressão 140 por 70, diabetes, cardiopatia na família, taquicardia no ECG.",alto risco,fase1
+"Mulher idosa relata nenhum sintoma no momento, com histórico de doença cardíaca, cardiopatia na família, sedentarismo.",baixo risco,fase1
+"fiquei com o coração acelerado depois de tomar energético, já normalizou",baixo risco,manual
+"Homem idoso procurou atendimento com nenhum sintoma no momento, com tabagismo, cardiopatia na família.",baixo risco,fase1
+tomei o remédio sublingual e a dor no peito continua,alto risco,manual
+minhas pernas incharam muito e agora fico sem ar ao falar,alto risco,manual
+"sinto o peito pesado, enjoo e uma sensação de morte iminente",alto risco,manual
+sinto dor no peito quando aperto o local depois do treino de supino,baixo risco,manual
+não consigo respirar direito nem deitado nem sentado,alto risco,manual
+estou com alergia e espirros pela manhã,baixo risco,manual
+"Mulher jovem relata dor no peito em pressão, com colesterol alto, alteração ST-T no ECG.",baixo risco,fase1
+"Mulher idosa relata dor no peito em pressão, com diabetes, suspeita de arritmia no ECG.",baixo risco,fase1
+"Paciente mulher de meia-idade refere queimação no peito, falta de ar, cansaço, com diabetes, histórico de doença cardíaca.",alto risco,fase1
+sinto cansaço depois de dormir pouco,baixo risco,manual
+"sinto o coração bater forte depois de fazer exercício, e logo normaliza",baixo risco,manual
+sinto formigamento na mão quando durmo em cima do braço,baixo risco,manual
+"Mulher idosa relata dor no peito em pressão, cansaço, com pressão 147 por 84, diabetes, cardiopatia na família, sedentarismo, suspeita de arritmia no ECG.",alto risco,fase1
+"Paciente homem idoso refere nenhum sintoma no momento, com pressão 153 por 78, cardiopatia na família.",baixo risco,fase1
+sinto falta de ar e o peito chiando com dor forte no lado esquerdo,alto risco,manual
+tenho falta de ar e dor no peito mesmo parado,alto risco,manual
+"Mulher idosa procurou atendimento com dor no peito em pressão, cansaço, com pressão 153 por 72, histórico de doença cardíaca, cardiopatia na família, sedentarismo.",alto risco,fase1
+fico ofegante ao subir quatro andares de escada correndo,baixo risco,manual
+tive dor no peito e desmaiei por alguns segundos,alto risco,manual
+faço caminhada todos os dias e me sinto bem,baixo risco,manual
+"Mulher de meia-idade relata dor no peito em pressão, com pressão 143 por 81, tabagismo, cardiopatia na família, sedentarismo, taquicardia no ECG.",alto risco,fase1
+o coração disparou durante o trabalho e fiquei com a visão escura,alto risco,manual
+sinto queimação forte no peito que piora com esforço e não melhora com remédio,alto risco,manual
+"senti o coração acelerar num susto, mas logo passou",baixo risco,manual
+tenho diabetes e senti um cansaço extremo com dor no estômago e suor frio,alto risco,manual
+"Homem idoso procurou atendimento com dor no peito em pressão, com pressão 144 por 88, tabagismo, histórico de doença cardíaca, cardiopatia na família.",alto risco,fase1
+faço tratamento para o coração e a dor no peito voltou mais forte,alto risco,manual
+sinto cansaço no fim do dia depois do trabalho,baixo risco,manual
+"Mulher idosa relata dor no peito em pressão, com pressão 162 por 91, tabagismo, sedentarismo.",alto risco,fase1
+"Paciente homem de meia-idade refere nenhum sintoma no momento, com pressão 140 por 73, sedentarismo.",baixo risco,fase1
+estou com prisão de ventre há dois dias,baixo risco,manual
+"Homem idoso relata falta de ar, cansaço.",baixo risco,fase1
+"Paciente homem de meia-idade refere aperto no peito, falta de ar, com pressão 145 por 73, colesterol alto.",baixo risco,fase1
+"meu coração acelera quando tomo muito café, mas passa rápido",baixo risco,manual
+estou com falta de ar intensa e os lábios ficaram roxos,alto risco,manual
+"Mulher jovem relata nenhum sintoma no momento, com colesterol alto, sedentarismo.",baixo risco,fase1
+"Homem de meia-idade relata aperto no peito, com tabagismo.",baixo risco,fase1
+acordo de madrugada sem ar e preciso sentar para respirar,alto risco,manual
+"Mulher de meia-idade relata cansaço, com cardiopatia na família, sedentarismo.",baixo risco,fase1
+"Homem de meia-idade procurou atendimento com dor no peito em pressão, com diabetes, cardiopatia na família.",baixo risco,fase1
+sinto dor nas costas por ficar muito tempo sentado,baixo risco,manual
+acordei com a perna inchada e agora sinto dor no peito e falta de ar,alto risco,manual
+a dor no peito acordou-me durante a noite e não passa,alto risco,manual
+"Paciente mulher de meia-idade refere aperto no peito, com diabetes, sedentarismo.",baixo risco,fase1
+dor de cabeça que melhora com analgésico e descanso,baixo risco,manual
+tive um mal-estar leve depois de tomar sol demais,baixo risco,manual
+"Homem idoso procurou atendimento com dor no peito em pressão, palpitações, com pressão 141 por 87, colesterol alto, histórico de doença cardíaca.",alto risco,fase1
+a falta de ar piora a cada hora e tusso uma espuma rosada,alto risco,manual
+"Paciente mulher idosa refere dor no peito em pressão, com pressão 149 por 67, tabagismo.",baixo risco,fase1
+estou com um aperto forte no peito que vai para o braço esquerdo,alto risco,manual
+"Paciente homem idoso refere dor no peito em pressão, cansaço, com pressão 146 por 73, colesterol alto, diabetes, tabagismo, cardiopatia na família, sedentarismo.",alto risco,fase1
+sinto uma pressão no peito que não passa nem em repouso,alto risco,manual
+"Paciente mulher idosa refere aperto no peito, com pressão 183 por 96, diabetes, sedentarismo.",alto risco,fase1
+"minha mãe de 78 anos está confusa, pálida e com dor no peito",alto risco,manual
+"Mulher idosa relata aperto no peito, cansaço, com pressão 149 por 79, cardiopatia na família, sedentarismo.",baixo risco,fase1
+fiquei sem ar ao caminhar poucos metros e os pés estão roxos,alto risco,manual
+"Paciente mulher de meia-idade refere aperto no peito, com cardiopatia na família, suspeita de arritmia no ECG.",baixo risco,fase1
+"Homem de meia-idade procurou atendimento com aperto no peito, cansaço, com pressão 159 por 85, diabetes, tabagismo, histórico de doença cardíaca, cardiopatia na família.",alto risco,fase1
+"Mulher idosa relata queimação no peito, cansaço, com histórico de doença cardíaca, alteração ST-T no ECG.",baixo risco,fase1
+tenho azia depois de comer feijoada,baixo risco,manual
+tenho um pouco de dor de barriga depois do almoço,baixo risco,manual
+"Homem de meia-idade relata aperto no peito, com pressão 142 por 78.",baixo risco,fase1
+ganhei três quilos em dois dias e não consigo deitar sem perder o fôlego,alto risco,manual
+"Paciente homem de meia-idade refere aperto no peito, com diabetes.",baixo risco,fase1
+"Homem idoso relata dor no peito em pressão, falta de ar, palpitações, com pressão 157 por 83, diabetes, sedentarismo.",alto risco,fase1
+"Paciente homem idoso refere queimação no peito, cansaço, com pressão 145 por 94, tabagismo, histórico de doença cardíaca, cardiopatia na família.",alto risco,fase1
+"Paciente mulher idosa refere aperto no peito, com pressão 153 por 82, histórico de doença cardíaca.",alto risco,fase1
+sinto o coração falhando e já desmaiei duas vezes hoje,alto risco,manual
+"sinto as pernas pesadas depois de um dia inteiro em pé, mas melhora ao elevá-las",baixo risco,manual
+dor no peito forte há mais de vinte minutos sem melhora,alto risco,manual
+estou com a vista turva e a pressão muito alta,alto risco,manual
+estou com dor no pescoço por dormir de mau jeito,baixo risco,manual
+senti uma pontada rápida no peito que passou em segundos,baixo risco,manual
+sinto dor no peito ao respirar e tossi sangue,alto risco,manual
+estou com dor de dente,baixo risco,manual
+"Mulher de meia-idade procurou atendimento com aperto no peito, falta de ar, palpitações, com colesterol alto, diabetes.",baixo risco,fase1
+"Homem idoso procurou atendimento com dor no peito em pressão, com cardiopatia na família, alteração ST-T no ECG.",baixo risco,fase1
+a dor no peito foi só uma batida no futebol e não dói ao respirar,baixo risco,manual
+"Paciente mulher de meia-idade refere queimação no peito, com pressão 156 por 78, cardiopatia na família, sedentarismo, taquicardia no ECG.",alto risco,fase1
+"Homem idoso relata dor no peito em pressão, falta de ar, cansaço, com pressão 148 por 87, cardiopatia na família, sedentarismo, alteração ST-T no ECG.",alto risco,fase1
+"Mulher idosa procurou atendimento com dor no peito em pressão, com pressão 153 por 72, colesterol alto, histórico de doença cardíaca, cardiopatia na família, alteração ST-T no ECG.",alto risco,fase1
+"Paciente homem idoso refere dor no peito em pressão, cansaço, com pressão 145 por 81, alteração ST-T no ECG.",alto risco,fase1
+senti uma fisgada nas costelas ao virar o corpo,baixo risco,manual
+estou suando frio com enjoo e um peso enorme no peito,alto risco,manual
+"Homem idoso relata palpitações, com pressão 149 por 73, colesterol alto, tabagismo, histórico de doença cardíaca, cardiopatia na família.",alto risco,fase1
+meu filho desmaiou no treino e reclamou de dor no peito antes,alto risco,manual
+"Homem idoso relata aperto no peito, palpitações, com tabagismo, cardiopatia na família, sedentarismo.",alto risco,fase1
+estou com dor de cabeça leve por causa da gripe,baixo risco,manual
+dor intensa no peito que melhora apenas um pouco quando fico sentado,alto risco,manual
+minha frequência cardíaca no relógio deu 72 em repouso,baixo risco,manual
