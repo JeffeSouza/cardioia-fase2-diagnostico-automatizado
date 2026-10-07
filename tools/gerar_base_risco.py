@@ -1,7 +1,7 @@
 """Gera data/frases_risco.csv (frase, situacao, origem) para a Parte 2.
 
 A base combina duas origens:
-- "manual": frases escritas pela equipe, simulando relatos de triagem;
+- "manual": frases escritas por mim, simulando relatos de triagem;
 - "fase1": frases montadas a partir do dataset simulado da Fase 1
   (data/fase1/pacientes_cardiacos_simulados.csv), usando o rótulo
   `rotulo_risco_cardiovascular_simulado` como situação de risco.

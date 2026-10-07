@@ -119,7 +119,7 @@ A saída completa, com sintomas negados, impacto na rotina, confiança relativa 
 
 | Origem | Alto risco | Baixo risco | Descrição |
 |---|---:|---:|---|
-| `manual` | 60 | 60 | relatos escritos pela equipe, com linguagem coloquial, negações e casos ambíguos |
+| `manual` | 60 | 60 | relatos escritos por mim, com linguagem coloquial, negações e casos ambíguos |
 | `fase1` | 32 | 48 | frases geradas a partir do dataset simulado da **Fase 1** (sexo, faixa etária, sintomas e fatores de risco), com o rótulo `rotulo_risco_cardiovascular_simulado` |
 | **Total** | **92** | **108** | |
 
@@ -133,7 +133,7 @@ A saída completa, com sintomas negados, impacto na rotina, confiança relativa 
 | Árvore de Decisão | 0,80 | 0,70 | 0,73 |
 | Naive Bayes | 0,78 | 0,78 | 0,64 |
 
-Escolhemos a **Regressão Logística** pelo maior recall de alto risco: em triagem, deixar passar um caso grave é o erro mais caro. Ela também é interpretável, e seus coeficientes mostram que termos como *peito*, *falta de ar*, *desmaiei* e *esquerdo* puxam a decisão para alto risco.
+Escolhi a **Regressão Logística** pelo maior recall de alto risco: em triagem, deixar passar um caso grave é o erro mais caro. Ela também é interpretável, e seus coeficientes mostram que termos como *peito*, *falta de ar*, *desmaiei* e *esquerdo* puxam a decisão para alto risco.
 
 ### Comportamento em frases novas
 
