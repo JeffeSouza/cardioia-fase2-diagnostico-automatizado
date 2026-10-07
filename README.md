@@ -6,7 +6,7 @@ Módulo de NLP do projeto CardioIA. Ele analisa relatos curtos de pacientes, **i
 
 ## 🎥 Vídeo de demonstração
 
-**Link (YouTube, não listado):** _a definir_
+**Link (YouTube, não listado):** https://www.youtube.com/watch?v=GVNtyJT_Qrg
 
 ## Sumário
 
